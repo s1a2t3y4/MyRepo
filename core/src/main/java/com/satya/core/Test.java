@@ -13,7 +13,7 @@ public class Test {
 	}
 
 	private static void powercalculate(int x, int y, int z) {
-		 
+		System.out.println("test");
 		System.out.println(powercalculate(powercalculate(x,y),z));
 		
 	}
