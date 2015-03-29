@@ -1,0 +1,20 @@
+package com.satya.core;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+	 int x=2;
+	 int y=3;
+	 int z=4;
+	 
+	 powercalculate(int x,int y,int z);
+
+	}
+
+	private static void powercalculate(int x, int y, int z) {
+		
+		
+	}
+
+}
